@@ -1,4 +1,4 @@
-package com.imrantechsoft.corejava;
+package com.imrantechsoft.basicprograms;
 
 public class SwappingNumbers {
 

@@ -1,4 +1,4 @@
-package com.imrantechsoft.corejava;
+package com.imrantechsoft.basicprograms;
 
 import java.util.Scanner;
 
