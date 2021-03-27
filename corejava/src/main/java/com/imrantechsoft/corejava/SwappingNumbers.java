@@ -30,7 +30,6 @@ public class SwappingNumbers {
 		a=a^b; //30^10=20
 
 		System.out.println("After Swapping values are: a=" +a+"  b="+b);
-
 	}
 
 }

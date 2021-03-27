@@ -28,5 +28,6 @@ public class ReverseNumber {
 		StringBuilder rev = sbl.reverse();
 		
 		System.out.println("Reverse number is: "+rev);
+		sc.close();
 	}
 }

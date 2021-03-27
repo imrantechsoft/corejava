@@ -20,6 +20,7 @@ public class PalindromeNumber {
 		}
 		else {
 			System.out.println(orgNum + " is not a Palindrome number");
-		}		
+		}	
+		sc.close();
 	}
 }
